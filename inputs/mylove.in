@@ -1,0 +1,4 @@
+// The program input for mylove/src/main.leo
+[main]
+public a: u32 = 520u32;
+b: u32 = 1314u32;
