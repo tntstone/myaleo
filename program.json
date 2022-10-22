@@ -1,0 +1,10 @@
+{
+    "program": "mylove.aleo",
+    "version": "0.1.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp5ecxZnn5UCvstu1qjoVvSj7nxSF5pryiPeG8VRqozPUA",
+        "address": "aleo1texfgv6p3f35elryyvdw58a32ujh628x3q5sjzylml0pzw46wszqapffnr"
+    },
+    "license": "MIT"
+}
